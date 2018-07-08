@@ -37,7 +37,7 @@ File: Layout CSS
 #pageintro article{display:block; max-width:100%; overflow:hidden;}
 #pageintro article *{word-wrap:break-word;}
 #pageintro .heading{margin-bottom:20px; font-size:6rem;}
-#pageintro p{margin:0; text-transform:uppercase; font-weight:700; font-size:1.4rem;}
+#pageintro p{margin:0; font-weight:normal; font-size:1.4rem;}
 #pageintro footer{margin-top:80px;}
 
 
@@ -276,7 +276,9 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 
 .imgover:hover::before{background:rgba(0,0,0,.55);}
 .imgover:hover::after{color:#FFFFFF;}
+.bookImage{max-width:220px;}
 
+.secondBookRow{margin-top:40px;}
 
 /* Rows */
 .row1{color:#929292; background-color:#FFFFFF;}
@@ -302,7 +304,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 
 /* Split Box */
 .split section, .split section::after{color:#FFFFFF; background-color:rgba(228,63,33,.55)/* #b4340a */;}
-.split section .fa-ul .fa-li{color:#b4340a;}
+.split section .fa-ul .fa-li{color:black;}
 
 
 /* Footer */
