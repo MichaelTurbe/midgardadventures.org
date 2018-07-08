@@ -277,6 +277,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 .imgover:hover::before{background:rgba(0,0,0,.55);}
 .imgover:hover::after{color:#FFFFFF;}
 .bookImage{max-width:220px;}
+.roll20Image{max-width:220px;}
 
 .secondBookRow{margin-top:40px;}
 
