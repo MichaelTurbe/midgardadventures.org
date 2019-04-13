@@ -263,15 +263,15 @@ td{border-width:0 1px;}
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
 body{color:white; background-color:#4A4E57;}
-a{color:#b4340a;}
+a{color:#23476b;}
 a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey background */
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
 input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 .overlay{color:#FFFFFF; background-color:inherit;}
-.overlay::after{color:inherit; background-color:rgba(228,63,33,.55)/* #b4340a */;}
-/* #b4340a to #b4340a*/
-.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#b4340a; border-color:#b4340a;}
+.overlay::after{color:inherit; background-color:rgba(35,71,107,.55)/* #23476b */;}
+/* #23476b to #23476b*/
+.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#23476b; border-color:#23476b;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
 
 .imgover:hover::before{background:rgba(0,0,0,.55);}
@@ -299,12 +299,12 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 
 /* Content Area */
 .services li article{color:inherit; background-color:#F6F6F6;}
-.services li article i{color:#FFFFFF; background:#b4340a; border-color:#FFFFFF;}
-.services li article:hover i{color:#b4340a; background:#F6F6F6;}
+.services li article i{color:#FFFFFF; background:#23476b; border-color:#FFFFFF;}
+.services li article:hover i{color:#23476b; background:#F6F6F6;}
 
 
 /* Split Box */
-.split section, .split section::after{color:#FFFFFF; background-color:rgba(228,63,33,.55)/* #b4340a */;}
+.split section, .split section::after{color:#FFFFFF; background-color:rgba(35,71,107,.55)/* #23476b */;}
 .split section .fa-ul .fa-li{color:black;}
 
 
@@ -323,32 +323,32 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 
 #footer input, #footer button{border-color:transparent;}
 #footer input{color:#32353C; background-color:#FFFFFF;}
-#footer input:focus{border-color:#b4340a;}
-#footer button{color:#FFFFFF; background-color:#b4340a;}
+#footer input:focus{border-color:#23476b;}
+#footer button{color:#FFFFFF; background-color:#23476b;}
 
 
 /* Navigation */
 #mainav li a{color:#FFFFFF;}
-#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#b4340a; background-color:inherit;}
+#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#23476b; background-color:inherit;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(50,53,60,.65)/* #32353C */; border-color:rgba(50,53,60,.65)/* #32353C */;}
-#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#b4340a;}
+#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#23476b;}
 #mainav form select{color:#FFFFFF; background-color:#4A4E57; border-color:rgba(255,255,255,.2);/* #FFFFFF */}
 
 #breadcrumb ul{border-color:rgba(255,255,255,.1);}
 #breadcrumb a{color:rgba(255,255,255,.6); background-color:inherit;}
 
 .container .sidebar nav a{color:inherit; border-color:#D7D7D7;}
-.container .sidebar nav a:hover{color:#b4340a;}
+.container .sidebar nav a:hover{color:#23476b;}
 
 .pagination a, .pagination strong{border-color:#D7D7D7;}
-.pagination .current *{color:#FFFFFF; background-color:#b4340a;}
+.pagination .current *{color:#FFFFFF; background-color:#23476b;}
 
-#backtotop{color:#FFFFFF; background-color:#b4340a;}
+#backtotop{color:#FFFFFF; background-color:#23476b;}
 
 
 /* Tables + Comments */
 table, th, td, #comments .avatar, #comments input, #comments textarea{border-color:#D7D7D7;}
-#comments input:focus, #comments textarea:focus, #comments *:required:focus{border-color:#b4340a;}
+#comments input:focus, #comments textarea:focus, #comments *:required:focus{border-color:#23476b;}
 th{color:#FFFFFF; background-color:#373737;}
 tr, #comments li, #comments input[type="submit"], #comments input[type="reset"]{color:inherit; background-color:#FBFBFB;}
 tr:nth-child(even), #comments li:nth-child(even){color:inherit; background-color:#F7F7F7;}
